@@ -2,14 +2,19 @@
 ## Descrição
 Este é um teste de software de calculadora feito em JavawithMaven, o objetivo desse teste é apurar a qualidade do software e a sua funcionalidade.
 Foram apurados as funções de soma, subtração, multiplicação e divisão testando varios cenarios possiveis para a maior ampliedade de cenarios observados e avaliados dentro deste teste.
+
 ##Classes de contas
 Classes das principais contas:
+
 ##Soma
 ![image](https://github.com/GiovaniCh7/CalculadoraTestes/assets/117593376/f36e2131-d714-4b98-9147-522504530a2e)
+
 ##Subtração
 ![image](https://github.com/GiovaniCh7/CalculadoraTestes/assets/117593376/87a3e7a9-b2ba-4257-b33d-96c1db1c3464)
+
 ##Divisão
 ![image](https://github.com/GiovaniCh7/CalculadoraTestes/assets/117593376/1a0bff12-e222-41c2-9688-b14bbf0ec9e0)
+
 ##Multiplicação
 ![image](https://github.com/GiovaniCh7/CalculadoraTestes/assets/117593376/c70bdca1-3730-4f3d-a91e-17c9c8688746)
 
